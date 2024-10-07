@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # PAGE SETTINGS
 # ----------------------------------------------------------------------------
-app_title = 'Wisconsin Dashboard - 2024'
-page_title = 'Wisconsin 2024'
+app_title = 'Wisconsin Environmental Education Directory'
+page_title = 'Wisconsin Environmental Education Directory'
 sub_title = 'Filter on'
 filter_category_1 = 'Organization Data'
 filter_category_2 = 'Program Data'
@@ -12,7 +12,7 @@ filter_category_2 = 'Program Data'
 # ----------------------------------------------------------------------------
 map_center_lat = 44.8742713
 map_center_lon = -91.2084173
-map_zoom = 5.172
+map_zoom = 5.072
 
 # Column in the dataset that maps to the featureidkey of the geojson.
 # This is what maps the data column to the geojson feature
