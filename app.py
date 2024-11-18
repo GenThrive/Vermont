@@ -121,8 +121,8 @@ test_div = html.Div()
 sidebar = html.Div(
     [
         html.H2(page_title),
-        html.Img(src='/assets/NAAEE_Wisconsin_Logo.png', style={'height':'120px','width':'100%', 'padding-bottom':'10px'}),
-        html.H4(sub_title),
+        # html.Img(src='/assets/Vermont.jpg', style={'height':'400px','width':'100%', 'padding-bottom':'10px'}),
+        # html.H4(sub_title),
         html.H5(filter_category_1),
         dds_orgs,
         html.H5(filter_category_2, style={'padding-top':'10px'}),
